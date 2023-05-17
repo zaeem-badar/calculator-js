@@ -1,0 +1,25 @@
+.calcard{
+    height: 300px;
+    width: 500px;
+   background-color: bisque;
+}
+.entrance input{
+    width: 300px;
+    margin-left: 45px;
+    margin-top: 10px;
+    
+}
+.numkeys{
+    
+    /* background-color: darkblue; */
+    margin-left: 100px;
+    margin-top: 20px;
+    
+    
+}
+.numkeys button{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
